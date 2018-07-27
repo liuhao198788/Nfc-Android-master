@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">读写NFC程序!</string>
+    <string name="app_name">NFC Demo</string>
+    <string name="write_to_tag">写入数据</string>
+    <string name="read_to_tag">读取数据</string>
+    <string name="default_note_text">请输入要写入数据!</string>
+    <string name="nfc_title">Please bring the NFC tag or card close to the device!</string>
+
+    <string name="writeTitle">请输入4个长度的字符 !</string>
+</resources>

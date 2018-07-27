@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NFC_NTAG/NFC_NTAG.iml" filepath="$PROJECT_DIR$/NFC_NTAG/NFC_NTAG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nfc-Android-master.iml" filepath="$PROJECT_DIR$/Nfc-Android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NfcCard/NfcCard.iml" filepath="$PROJECT_DIR$/NfcCard/NfcCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

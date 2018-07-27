@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.nfc
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:9:9-44
+uses-permission#android.permission.NFC
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:12:5-62
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:12:22-59
+application
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:14:5-51:19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.android\build-cache\8c72250bd8fee02c8d714f4a45bde31575a8f644\output\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:15:9-37
+activity#android.nfc.demo.MainActivity
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:17:9-50:20
+	android:label
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:18:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:23:27-74
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:27:13-31:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:28:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:29:27-73
+data
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:30:17-55
+	android:mimeType
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:30:23-52
+intent-filter#android.nfc.action.TAG_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:40:14-42:29
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:41:25-73
+intent-filter#android.nfc.action.TECH_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:44:13-46:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:45:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:47:13-49:59
+	android:resource
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:49:17-56
+	android:name
+		ADDED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml:48:17-66
+uses-sdk
+INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\Administrator\.android\build-cache\8c72250bd8fee02c8d714f4a45bde31575a8f644\output\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml
+		INJECTED from D:\AsWorkspace\Nfc-Android-master\Nfc-Android-master\NFC_NTAG\src\main\AndroidManifest.xml

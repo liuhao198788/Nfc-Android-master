@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_app_main.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable-hdpi\\ic_app_main.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_clear.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable-hdpi\\ic_menu_clear.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_about.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable-hdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
+    }
+]

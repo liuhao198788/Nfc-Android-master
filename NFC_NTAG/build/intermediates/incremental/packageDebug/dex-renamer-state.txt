@@ -1,0 +1,4 @@
+#Thu Jul 26 17:36:04 CST 2018
+base.0=D\:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff5177</color>
+    <color name="black">#FF000000</color>
+    <color name="buttonColor">#00EEEEEE</color>
+    <color name="buttonColorIn">#1E90FF</color>
+    <color name="buttonStroke">#CCEEEEEE</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent1">#A8FF4081</color>
+    <color name="colorPrimary">#0288d1</color>
+    <color name="colorPrimary1">#2a388d</color>
+    <color name="colorPrimary2">#A03051BE</color>
+    <color name="colorPrimaryDark">#03a9f4</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_777572">#777572</color>
+    <color name="gap_line">#e2e2e2</color>
+    <color name="item_bg">#e5e5e5</color>
+    <color name="mItemColor">#3f5dbe</color>
+    <color name="mItemColor1">#fff8dc</color>
+    <color name="myellow">#FF4800</color>
+    <color name="myellow1">#ffab40</color>
+    <color name="primary">#0288d1</color>
+    <color name="primary_dark">#03a9f4</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_half">#58000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">NFC Demo</string>
+    <string name="default_note_text">请输入要写入数据!</string>
+    <string name="hello">读写NFC程序!</string>
+    <string name="nfc_title">Please bring the NFC tag or card close to the device!</string>
+    <string name="read_to_tag">读取数据</string>
+    <string name="writeTitle">请输入4个长度的字符 !</string>
+    <string name="write_to_tag">写入数据</string>
+</resources>

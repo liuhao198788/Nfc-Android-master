@@ -1,0 +1,86 @@
+[
+    {
+        "outputFile": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 45,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 74,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 54,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 49,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 76,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 51,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NFC_NTAG\\src\\main\\res\\values-zh-rCN\\strings.xml"
+                }
+            }
+        ]
+    }
+]

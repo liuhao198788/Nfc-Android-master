@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\box.xml",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\box.xml"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_button.xml",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\shape_button.xml"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\box_selected.9.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\box_selected.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_msg.xml",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\shape_msg.xml"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\container.9.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\container.9.png"
+    },
+    {
+        "merged": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\build\\intermediates\\res\\merged\\debug\\drawable\\box_normal.9.png",
+        "source": "D:\\AsWorkspace\\Nfc-Android-master\\Nfc-Android-master\\NfcCard\\src\\main\\res\\drawable\\box_normal.9.png"
+    }
+]
